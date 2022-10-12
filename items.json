@@ -1,0 +1,10 @@
+{
+    "propElems": [
+    {"id": 1, "addedToCart": false, "title":"Cozy studio in Los Angeles", "cost": "1,200.00", "location": "2263 Southlea, Los Angeles", "src":"https://images.unsplash.com/photo-1593696140826-c58b021acf8b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"}, 
+  { "id": 2, "addedToCart": false, "title":"Tiny home in San Diego", "cost":"740,000.00", "location":"2569 El Segundo, San Diego", "src":"https://images.unsplash.com/photo-1560185007-cde436f6a4d0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"}, 
+  { "id": 3, "addedToCart": false, "title":"Crown house in New York", "cost":"980,000.00", "location":"4489 Smity Fielda, New York", "src":"https://images.unsplash.com/photo-1613545325268-9265e1609167?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"},
+  { "id": 4, "addedToCart": false, "title": "Family house in Los Angeles", "cost":"4,200.00", "location": "2263 Southlea, Los Angeles", "src":"https://images.unsplash.com/photo-1600566753104-685f4f24cb4d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"},
+  { "id": 5, "addedToCart": false, "title":"Studio in Las Vegas", "cost":"820,000.00", "location":"2569 Halls Corner, Las Vegas", "src":"https://images.unsplash.com/photo-1560448204-61dc36dc98c8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"}, 
+  { "id": 6, "addedToCart": false, "title":"San Diego story", "cost":"3,700.00", "location":"69 El Segundo, San Diego", "src":"https://images.unsplash.com/photo-1600566753151-384129cf4e3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80"} 
+]
+}
